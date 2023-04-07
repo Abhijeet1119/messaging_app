@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "267892810055",
+    "firebase_url": "https://poststory-8f726-default-rtdb.firebaseio.com",
+    "project_id": "poststory-8f726",
+    "storage_bucket": "poststory-8f726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267892810055:android:de4ef2abda5fe727516c62",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267892810055-bhc99som1j2ncg7hjvprumunpnu3ldjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshRajpurohit.we_chat",
+            "certificate_hash": "ae7daed41afc9372b347f6a0174a38b4fb2c3045"
+          }
+        },
+        {
+          "client_id": "267892810055-4cah4co5on0anhq35r5713ntvscs8vko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjBsnSSylMWK3siTrfYkipJdG9roUeTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267892810055-4cah4co5on0anhq35r5713ntvscs8vko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267892810055-bgghkmj8jiio6egrop782rv43k2bieok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
